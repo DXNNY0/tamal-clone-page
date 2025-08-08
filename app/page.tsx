@@ -47,7 +47,7 @@ export default function Home() {
     <p className="text-lg md:text-2xl text-gray-300">
       SOFTWARE ENGINEER, FRONT END & APP DEVELOPERS
     </p>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium amet quibusdam tenetur quisquam alias, impedit quia, maxime explicabo illo iste nobis fugit dolores consequuntur nesciunt deserunt necessitatibus placeat non. Nesciunt!</p>
+    
   </section>
   
   
