@@ -45,7 +45,7 @@ export default function Home() {
   <section id='featured' className="flex flex-col items-center justify-center text-center mt-20 px-4">
     <h2 className="text-5xl md:text-9xl font-extrabold">TAMAL SEN</h2>
     <p className="text-lg md:text-2xl text-gray-300">
-      SOFTWARE ENGINEER, FRONT END & APP DEVELOPER
+      SOFTWARE ENGINEER, FRONT END & APP DEVELOPERS
     </p>
   </section>
   
